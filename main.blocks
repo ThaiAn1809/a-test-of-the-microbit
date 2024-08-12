@@ -1,0 +1,7 @@
+<xml xmlns="https://developers.google.com/blockly/xml"><block type="device_forever" id="*hZHofW(Re%uIjq@?SS[" x="0" y="0"><statement name="HANDLER"><block type="device_plot_bar_graph" id="J,BrT|o;8n.SO1XZq)ds"><mutation xmlns="http://www.w3.org/1999/xhtml" _expanded="0" _input_init="true"></mutation><value name="value"><shadow type="math_number"><field name="NUM">0</field></shadow><block type="device_get_sound_level" id="#.x+~}?zR3flhx!mC?_6"></block></value><value name="high"><shadow type="math_number" id="kbXICd?uTIsl4MRUS/bO"><field name="NUM">225</field></shadow></value><value name="valueToConsole"><shadow type="toggleOnOff" id="FSMSl5o@cm[T1EkrJ7v`"><field name="on">true</field></shadow></value></block></statement></block><block type="device_gesture_event" id="Lc?Q)Lv(Cs`7U@$Y#H=~" x="110" y="215"><field name="NAME">Gesture.Shake</field><statement name="HANDLER"><block type="device_show_leds" id="^2L9VAl,=@EkHo*SX1!W"><field name="LEDS">`
+        # . # . # 
+        . # . # . 
+        # . # . # 
+        . # . # . 
+        # . # . #
+        `</field></block></statement></block></xml>
